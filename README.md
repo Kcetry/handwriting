@@ -2,6 +2,7 @@
 
 ###界面 :
 ![](http://7xqhly.com1.z0.glb.clouddn.com/hhhs.png)
+地址:http://115.28.212.157:8080/Handwriting/index.html
 
 ###实现功能 :
 阿拉伯手写体的识别,正确率在80%以上。
