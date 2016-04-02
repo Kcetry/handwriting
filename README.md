@@ -1,7 +1,7 @@
 # 基于knn算法的数字手写识别
 
 ###界面 :
-![](http://7xqhly.com1.z0.glb.clouddn.com/hhhh.png)
+![](http://7xqhly.com1.z0.glb.clouddn.com/hhhs.png)
 
 ###实现功能 :
 阿拉伯手写体的识别,正确率在80%以上。
