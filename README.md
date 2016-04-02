@@ -1,4 +1,4 @@
-# 基于knn算法的数字手写识别
+# knn算法实现的数字手写识别
 
 ###界面 :
 ![](http://7xqhly.com1.z0.glb.clouddn.com/hhhs.png)
